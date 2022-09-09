@@ -1,0 +1,15 @@
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\code.csproj.AssemblyReference.cache
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\code.AssemblyInfoInputs.cache
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\code.AssemblyInfo.cs
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\code.csproj.CoreCompileInputs.cache
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\bin\Debug\net6.0\code.exe
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\bin\Debug\net6.0\code.deps.json
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\bin\Debug\net6.0\code.runtimeconfig.json
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\bin\Debug\net6.0\code.dll
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\bin\Debug\net6.0\code.pdb
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\code.dll
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\refint\code.dll
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\code.pdb
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\code.genruntimeconfig.cache
+C:\Users\Мама\Downloads\EDUCATION\Exam_Test\code\obj\Debug\net6.0\ref\code.dll
