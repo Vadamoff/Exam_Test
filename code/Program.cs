@@ -42,15 +42,15 @@ void PrintTextArray(string[] textArr)
 //длина которых не превышает 3 символов.
 int CalcLengthArray(string[] textArr)
 {
-    int sum = 0;
+    int count = 0;
     for(int i = 0; i < textArr.Length; i++)
     {
         if(textArr[i].ToCharArray().Length <= 3)
-            sum++;
+            count++;
     }
 //    Console.WriteLine("Количество элементов массива, длина которых не превышает 3 символов:");
-//    Console.WriteLine(sum);
-    return sum;
+//    Console.WriteLine(count);
+    return count;
 }
 
 //Метод добавляет в новый массив
